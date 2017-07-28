@@ -29,7 +29,7 @@ const promises = providers.map(provider => {
 
 Promise.all(promises)
   .then(data => {
-    console.log(data)
+    console.log(data.length)
     const json = JSON.stringify(data)
     console.log('Writing geocoded results...')
     fs.writeFileSync(

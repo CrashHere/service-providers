@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "geocoder": "^0.2.3"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  },
+  "name": "service-providers",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

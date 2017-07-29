@@ -1,0 +1,18 @@
+,
+    {
+        "name": "~Womens Refuge",
+        "categories": ["woman", "free", "children"],
+        "description": "",
+        "hours": "",
+        "details": "",
+        "address": "",
+        "street": "",
+        "suburb": "",
+        "city": "Auckland",
+        "postcode": "",
+        "country": "New Zealand",
+        "phone": "Crisis: 0800 321 361",
+        "fax": "",
+        "email": "",
+        "website": "http://www.womensrefuge.org.nz"
+    },

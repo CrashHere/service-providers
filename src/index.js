@@ -30,7 +30,7 @@ const promises = providers.map(provider => {
 Promise.all(promises)
   .then(data => {
     console.log(data.length)
-    const json = JSON.stringify(data)
+    const json = JSON.stringify(data, null, 4)
     console.log('Writing geocoded results...')
     fs.writeFileSync(
       path.resolve('src/data/service-providers-geocoded.json'),

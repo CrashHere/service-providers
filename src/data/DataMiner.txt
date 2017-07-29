@@ -1,11 +1,5 @@
 
-"Airedale Property Trust
-  
-    
-        
-        + Select
-    
-  
+Airedale Property Trust
 Last updated 08/11/2016
 FSD0022854
 APT is helping address local and central government requirements for affordable housing, residential aged care and specialised housing for other at risk groups, including people living with disabilities. APT is providing social housing in partners...
@@ -13,32 +7,24 @@ Level 7
 385 Queen Street
 Auckland
 1010
- 
- 
 rateneshs@apt.org.nz
 (09) 302 8169 
 http://www.airedaleproperty.org.nz/
 Monday - Friday 9am-5pm
 Some charges may apply.
 No referral required.
- 
 Classifications:
 EHP"
+
+
+
 "Arohanui Christian Trust
-  
-    
-        
-        + Select
-    
-  
 Last updated 24/11/2016
 FSD0003566
 Arohanui is a non profit registered charitable Trust The goals are to help those in need in the community. We endeavour to keep the work simple and uncluttered so as to spend time and energy working with families and children. Our safe homes are s...
 143 Main Highway
 Ellerslie
 Auckland
- 
- 
 arohanui.hanna@xtra.co.nz
 (09) 579 8315 
 (021) 661781 
@@ -46,13 +32,9 @@ http://www.arohanui.org.nz/
 9am-5pm
 Some charges may apply.
 No referral required."
+
+
 "Auckland Women's Centre
-  
-    
-        
-        + Select
-    
-  
 Last updated 28/02/2017
 FSD0004148
 A safe, accessible place offering support and facilitating empowerment and well-being for all women. The Auckland Women's Centre is a women-only space.
@@ -61,21 +43,16 @@ Unit 6
 Grey Lynn
 Auckland
 1021
- 
- 
 info@womenz.org.nz
 (09) 376 3227 extn 0 
 http://www.awc.org.nz
 9.00am - 4.00pm Monday to Friday.
 Some charges may apply.
 No referral required."
-"Bays Community Housing Trust
-  
-    
-        
-        + Select
-    
-  
+
+
+
+"Bays Community Housing Trust 
 Last updated 05/07/2017
 FSD0020998
 To provide affordable quality housing to people in social and economic need.  Initially there has been a focus on those who have experienced mental ill health, also catering for young people out of CYPs care and older women.  We manage 33 houses a...
@@ -83,8 +60,6 @@ To provide affordable quality housing to people in social and economic need.  In
 Torbay
 Auckland
 0630
- 
- 
 manager@bcht.org.nz
 (021) 263 6017 
 (09) 473 8371 
@@ -92,13 +67,9 @@ http://bcht.org.nz
 Normal Office hours
 Some charges may apply.
 Referral may apply."
+
+
 "Building and Housing Information - Auckland
-  
-    
-        
-        + Select
-    
-  
 Last updated 01/09/2016
 FSD0006222
 We assist everyone involved with buildings, whether they build, own, live or work in them.
@@ -107,8 +78,6 @@ Tenancy – Landlords who let re...
 Level 3
 41 Shortland St
 Auckland
- 
- 
 info@dbh.govt.nz
 (0800) 836 262 
 (0800) TENANCY 
@@ -117,21 +86,15 @@ Open 8.30 am to 4.30 pm weekdays. It is best to call and make an appointment to 
 From overseas: +64 4 238 4695
 Some charges may apply.
 No referral required."
+
+
 "Building and Housing Information - Manukau
-  
-    
-        
-        + Select
-    
-  
 Last updated 11/10/2016
 FSD0006225
 We offer advice and information for landlords and tenants who rent their homes. We administer the Residential Tenancies Act 1986. We receive and hold bonds until the end of a tenancy, we provide dispute resolution services, and we administer the S...
 7 Ronwood Avenue
 Manukau
-2104
- 
- 
+2104 
 info@tenancy.govt.nz
 (0800) 836 262 
 (0800) TENANCY 
@@ -139,13 +102,9 @@ http://www.dbh.govt.nz/tenancy-index
 Generally our hours are 8.30am to 4.30pm Monday to Friday.
 Some charges may apply.
 No referral required."
+
+
 "Citizens Advice Bureau Otara Incorporated
-  
-    
-        
-        + Select
-    
-  
 Last updated 16/02/2017
 FSD0006860
 Citizens Advice Bureau provides free, confidential information and advice to anyone about any query or problem. CAB is staffed by trained volunteers who can access information by computer or from the extensive range of resources held by each burea...
@@ -154,8 +113,6 @@ Shops 1 & 2
 Otara Town Centre, Bairds Road
 Auckland
 2023
- 
- 
 cab.otara_manager@xtra.co.nz
 (09) 274 8327 
 (09) 274 6577 
@@ -163,21 +120,16 @@ http://www.cab.org.nz
 Monday-Friday 9am-4pm; Sat 9am-12pm
 All services free of charge.
 No referral required."
+
+
+
 "CORT Community Housing
-  
-    
-        
-        + Select
-    
-  
 Last updated 01/11/2016
 FSD0021035
 CORT Community Housing specialises in the provision of long-term affordable housing in Auckland for people on low incomes.  Most of its accommodation is low rise, medium density 1 and 2 bedroom units.
 68 Grafton Road
 Auckland
 1010
- 
- 
 info@cort.org.nz
 (09) 376 3049 
 http://www.cort.org.nz
@@ -185,13 +137,9 @@ Monday to Thursday 9am - 4:30pm
 Friday 9am-4pm
 Some charges may apply.
 Referral may apply."
+
+
 "Dayspring Trust
-  
-    
-        
-        + Select
-    
-  
 Last updated 06/03/2017
 FSD0015682
 Dayspring is passionate about fostering the wellbeing of both mother and child creating opportunities that inspire women to live, love, learn and connect.
@@ -200,8 +148,6 @@ Head Office
 2 Seabrook Avenue
 New Lynn
 Waitakere City
- 
- 
 info@dayspring.co.nz
 (09) 827 6321 
 (09) 834 4893 
@@ -209,38 +155,26 @@ http://www.dayspring.co.nz
 9.00 am - 3.00 pm
 Some charges may apply.
 Referral may apply."
+
+
 "De Paul House
-  
-    
-        
-        + Select
-    
-  
 Last updated 03/02/2017
 FSD0016947
 To provide temporary accommodation for homeless families and support vulnerable families in the community. Please see service detail for more information.
 92 - 96 Onewa Road
 Northcote
 North Shore City
-0627
- 
- 
+0627 
 jan@depaulhouse.org.nz
 (09) 480 5959 
 http://www.depaulhouse.org.nz
 9 - 5pm Monday to Friday
 Some charges may apply.
 Referral may apply.
- 
-Classifications:
-EHP"
-"Equip
-  
-    
-        
-        + Select
-    
-  
+"EHP"
+
+
+Equip
 Last updated 07/10/2016
 FSD0008131
 We are a non-governmental organisation providing recovery support for individuals experiencing major mental health disorders and their families.
@@ -249,21 +183,14 @@ Windsor Park Centre
 Mairangi Bay
 Auckland
 0630
- 
- 
 front.desk@equip.net.nz
 (09) 477 0338 
 http://www.equip.net.nz
 8.30am - 4.30pm, Monday to Friday.
 All services free of charge.
 Referral may apply."
+
 "formerly Baptist Homecare 
-  
-    
-        
-        + Select
-    
-  
 Last updated 23/02/2017
 FSD0005955
 VisionWest Home Healthcare is a long-standing provider of quality, professional, home healthcare in the West Auckland region.  Services are available not only to the elderly but also to the sick, injured and those with disabilities of all ages in ...
@@ -272,8 +199,6 @@ Building 4
 Glen Eden
 Waitakere
 0612
- 
- 
 Homecare@VisionWest.org.nz
 (09) 813 0133 
 (027) 487 8556 
@@ -281,13 +206,8 @@ http://www.VisionWest.org.nz
 Office hours: 9.00am - 5.00pm, Monday to Friday.
 Some charges may apply.
 Referral may apply."
+
 "LIFEWISE
-  
-    
-        
-        + Select
-    
-  
 Last updated 11/01/2017
 FSD0003389
 Established in 1851, we work with individuals and communities to address social issues such as poverty, homelessness, social isolation, substance abuse, caring for families and older people.
@@ -296,21 +216,16 @@ Level 7
 CBD
 Auckland
 1010
- 
- 
 cherylb@mmn.org.nz
 (09) 302 5390 
 http://www.lifewise.org.nz
 Monday to Friday 8.30am-5pm.
 Some charges may apply.
 No referral required."
+
+
+
 "Mangere Budgeting Services Trust
-  
-    
-        
-        + Select
-    
-  
 Last updated 14/02/2017
 FSD0005954
 We are a not-for-profit, social service providing Budgeting, Education, Housing Advocacy, Food Parcels (criteria applies) and Social Service Support to the community of Mangere and South Auckland. We are also a Lead Agency for Strengthening Families.
@@ -318,34 +233,24 @@ We are a not-for-profit, social service providing Budgeting, Education, Housing 
 Mangere
 Manukau
 2022
- 
- 
 appointments@mangerebudgeting.org.nz
 (09) 275 2266 
 (0508) 22 22 83 
 http://www.mangerebudgeting.org.nz
 Monday to Friday. 9am to 4pm. Financial capability: AUCKLAND CENTRAL and SOUTH ONLY.
 All services free of charge.
-No referral required.
- 
-Classifications:
-BFC"
-"Manukau Urban Maori Authority
-  
-    
-        
-        + Select
-    
-  
+No referral required. 
+Classifications: BFC
+
+
+Manukau Urban Maori Authority
 Last updated 07/02/2017
 FSD0005969
 MUMA is proud to be an accredited Whanau Ora Provider. The vision behind Whanau Ora is to focus on the whanau, not simply the individual. Whanau Ora empowers whanau, enabling them to direct their own steps, while providing support, services and op...
 7 Shirley Road
 Papatoetoe
 Manukau
-2025
- 
- 
+2025 
 info@muma.co.nz
 (0800) 866 862 
 (09) 277 7866 
@@ -355,16 +260,11 @@ Saturday & Sunday: CLOSED.
 Public Holidays: CLOSED.
 All services free of charge.
 Referral may apply.
- 
-Classifications:
-BFC"
+Classifications: BFC
+
+
+
 "Papatoetoe Budgeting & Family Services
-  
-    
-        
-        + Select
-    
-  
 Last updated 12/05/2017
 FSD0021758
 We provide: free budgeting service, free career services, CV writing, job application, job training, placement, work ready programme, migrant settlement services, ESOL, job search assistance, career advice.
@@ -373,25 +273,17 @@ Ground Floor
 Papatoetoe
 Manukau
 2025
- 
- 
 comm.budgetingservice@gmail.com
 (09) 279 0415 
 http://hinduheritage.org.nz
 Monday to Friday from 8.30 am to 4.30 pm
 Saturday/Sunday by appointment
 All services free of charge.
-No referral required.
- 
-Classifications:
-BFC"
+No referral required. 
+Classifications: BFC"
+
+
 "Ranui Baptist Community Care
-  
-    
-        
-        + Select
-    
-  
 Last updated 12/04/2017
 FSD0019697
 Goals of the Trust are:
@@ -400,26 +292,16 @@ Goals of the Trust are:
 Ranui
 Auckland
 0655
- 
- 
 creh@xtra.co.nz
 (09) 832 5961 Budgeting 
 (027) 486 7950 Community Support 
 http://www.careranui.org.nz
 Monday to Friday 9:00am to 5:00pm. Financial capability availability: AUCKLAND WEST ONLY
 Some charges may apply.
-No referral required.
- 
-Classifications:
-BFC
-EHP"
-"Shanti Niwas Charitable Trust
-  
-    
-        
-        + Select
-    
-  
+No referral required. 
+Classifications: BFC EHP
+
+Shanti Niwas Charitable Trust
 Last updated 07/03/2017
 FSD0022954
 Shanti Niwas is a non-profit organisation, has a long history of working with senior citizens of Indian and South Asian origin living in the Auckland region since 1994 to ensure they are valued and treasured by society. 
@@ -428,8 +310,6 @@ Our mission is to provi...
 14 Spring Street
 Auckland
 1061
- 
- 
 shantiniwas@xtra.co.nz
 (09) 622 1010 
 (021) 202 8406 
@@ -437,16 +317,10 @@ http://www.shantiniwas.org.nz
 Mon - Fri 9.30 am - 4pm
 Some charges may apply.
 No referral required.
- 
-Classifications:
-EARS"
+Classifications: EARS
+
+
 "Sisters of Mercy Wiri
-  
-    
-        
-        + Select
-    
-  
 Last updated 23/03/2017
 FSD0005894
 Sisters of Mercy Wiri is a community based social service agency with a strong social justice and community development focus.  We provide a range of services to meet the needs of children, families/whanau and the community.
@@ -454,8 +328,6 @@ Sisters of Mercy Wiri is a community based social service agency with a strong s
 Wiri
 Auckland
 2104
- 
- 
 margaret@sistersofmercywiri.org.nz
 (09) 263 6464 
 http://www.sistersofmercywiri.org.nz/
@@ -463,18 +335,11 @@ http://www.sistersofmercywiri.org.nz/
 The service is predominantly for the people who live in Wiri/Manurewa.
 All services free of charge.
 No referral required."
+
 "South Auckland Family Refuge Inc.
-  
-    
-        
-        + Select
-    
-  
 Last updated 09/01/2017
 FSD0007651
 Women's Refuges work to raise public awareness of violence against women and children, promoting the prevention and elimination of violence, and the rights of women and children to care and protection. For support, please ring our Crisis Line: 080...
- 
- 
 peppertreehouse@xtra.co.nz
 (0800) 733 843 
 (09) 276 8868 
@@ -482,18 +347,11 @@ http://www.womensrefuge.org.nz
 Monday- Friday 9.30-4.30p.m.
 Some charges may apply.
 No referral required.
-ApprovedFamily Violence Provider
- 
-Classifications:
-EHP
-PACIFIC"
-"Te Kotuku ki Te Rangi Trust
-  
-    
-        
-        + Select
-    
-  
+ApprovedFamily Violence Provider 
+Classifications: EHP, PACIFIC
+
+
+Te Kotuku ki Te Rangi Trust
 Last updated 11/01/2017
 FSD0003745
 A kaupapa Maori community health provider for Oranga Hinengaro Services.
@@ -501,8 +359,6 @@ A kaupapa Maori community health provider for Oranga Hinengaro Services.
 Avondale
 Auckland
 1026
- 
- 
 reception@tekotuku.co.nz
 (09) 820 0045 
 http://www.tekotuku.co.nz
@@ -510,19 +366,12 @@ Head Office
 Mon  & Fri: 8.30am - 5:00pm
 All services free of charge.
 Referral may apply."
+
 "Te Manawanui Charitable Trust
-  
-    
-        
-        + Select
-    
-  
 Last updated 11/01/2017
 FSD0003676
 Provision of emergency housing to families, solo mums / dads & pregnant women on their own.
 Free budget services to individuals & families in need of financial advice or assistance.
- 
- 
 te.manawanui@xtra.co.nz
 (09) 624 3906 
 (021) 280 4000 
@@ -530,18 +379,11 @@ te.manawanui@xtra.co.nz
 Outside of these hours 24/7
 mob: 021 2804000
 Some charges may apply.
-No referral required.
- 
-Classifications:
-EHP
-PACIFIC"
-"Te Puna Hauora o Te Raki Paewhenua Society Incorporated
-  
-    
-        
-        + Select
-    
-  
+No referral required. 
+Classifications: EHP, PACIFIC
+
+
+Te Puna Hauora o Te Raki Paewhenua Society Incorporated
 Last updated 02/02/2017
 FSD0003767
 Te Puna Hauora provides a comprehensive range of medical and social services to our enrolled population.
@@ -549,22 +391,16 @@ Te Puna Hauora provides a comprehensive range of medical and social services to 
 Northcote
 North Shore
 0627
- 
- 
 administrator@tepuna.org.nz
 (09) 489 0189 
 (09) 489 3049 
 http://www.tepuna.org.nz
 Monday-Friday 8.30am - 5.00pm. C;osed statutory holidays
 All services free of charge.
-Referral may apply."
-"Te Waipuna Puawai Mercy Oasis
-  
-    
-        
-        + Select
-    
-  
+Referral may apply.
+
+
+Te Waipuna Puawai Mercy Oasis
 Last updated 01/11/2016
 FSD0008245
 Te Waipuna Puawai is a community development initiative of the Sisters of Mercy Auckland that serves some of the most vulnerable families in Tamaki (Glen Innes, Pt England, Panmure) and surrounding low income areas. The vision is ""Well-being for o...
@@ -573,8 +409,6 @@ Glen Innes Centre
 Glen Innes
 Auckland
 1343
- 
- 
 ceo@twp.org.nz
 (09) 527 6380(Glen Innes) 
 (09) 571 2098(Ellerslie) 
@@ -582,13 +416,9 @@ http://www.twp.org.nz
 9am-4.30pm Monday to Friday.
 Koha/donation may apply.
 No referral required."
+
+
 "Tenants Protection Association
-  
-    
-        
-        + Select
-    
-  
 Last updated 08/12/2016
 FSD0003455
 Advice on tenants rights and responsibilities under the Residential Tenancies Act 1986.
@@ -596,20 +426,14 @@ Advice on tenants rights and responsibilities under the Residential Tenancies Ac
 147 Great North Road
 Grey Lynn
 Auckland
- 
- 
 (09) 360 1473 
 9.30am - 12.30pm, Mon - Fri.
 Answerphone available at other times.
 All services free of charge.
 No referral required."
+
+
 "The Salvation Army - Epsom Lodge
-  
-    
-        
-        + Select
-    
-  
 Last updated 21/11/2016
 FSD0003336
 A Salvation Army Accommodation Service for men & women, providing a program of rehabilitation for unemployed, drug abusers, ex psychiatric patients, prison discharges and those unable to live independently in the community. Formal referral and ass...
@@ -617,25 +441,17 @@ A Salvation Army Accommodation Service for men & women, providing a program of r
 Epsom
 Auckland
 1051
- 
- 
 epsom_lodge@nzf.salvationarmy.org
 (09) 524 0252 
 (09) 524 7379 
 http://www.salvationarmy.org.nz/
 24 Hours
 Some charges may apply.
-Referral may apply.
- 
-Classifications:
-EHP"
-"The Salvation Army - Royal Oak Community Ministries
-  
-    
-        
-        + Select
-    
-  
+Referral may apply. 
+Classifications: EHP
+
+
+The Salvation Army - Royal Oak Community Ministries
 Last updated 18/01/2017
 FSD0003434
 We provide welfare support to needy families, budgeting advice, transitional housing, referral resources, Ezee meals. Community Social workers and Youth workers operate from this centre.
@@ -643,26 +459,17 @@ Referrals for Transitional Housing Programme can be accep...
 691a Mt Albert Road
 Royal Oak
 Auckland
- 
- 
 aucklandcity_cm@nzf.salvationarmy.org
 (09) 639 1181 
 http://www.salvationarmy.org.nz
 9:15am-12pm, 1-3pm Monday, Tuesday, Thursday Friday. 
 Wednesdays 10-12 and 1-3pm. 
 Some charges may apply.
-Referral may apply.
- 
-Classifications:
-BFC
-EHP"
+Referral may apply. 
+Classifications: BFC, EHP
+
+
 "Tāmaki Housing Association
-  
-    
-        
-        + Select
-    
-  
 Last updated 13/12/2016
 FSD0022861
 Tāmaki Housing manages all social housing in Glen Innes, Panmure and Point England. We have a great team of tenancy managers who spend a lot of time in the community getting to know our tenants.
@@ -671,8 +478,6 @@ Tamaki Housing is part of the Tāmaki Regeneration...
 Glen Innes
 Auckland
 1072
- 
- 
 info@tamakihousing.co.nz
 (0800) 521 555 
 http://tamakihousing.co.nz
@@ -680,12 +485,6 @@ Our call centre is open between 8am - 6pm, Monday to Friday if you have any ques
 Some charges may apply.
 Referral may apply."
 "VisionWest Community Housing
-  
-    
-        
-        + Select
-    
-  
 Last updated 17/01/2017
 FSD0020732
 VisionWest Community Housing provides emergency, short term and long term supported Housing in West Auckland & Christchurch for those in need who cannot access private rental houses. The aim is to provide safe, healthy, affordable, quality housing...
@@ -694,21 +493,15 @@ Building 13
 Glen Eden
 Auckland
 0641
- 
- 
 housing@visionwest.org.nz
 (09) 818 0700 
 http://www.visionwest.org.nz/community-housing.html
 Monday - Friday 9am - 5pm
 Some charges may apply.
 No referral required."
+
+
 "VisionWest Community Trust
-  
-    
-        
-        + Select
-    
-  
 Last updated 23/02/2017
 FSD0020227
 VisionWest exists to meet the needs of people in the West Auckland community and beyond. As a community development based organisation, our vision is to build a place of trust and openness where people feel valued and loved.
@@ -718,152 +511,93 @@ Building 7
 Glen Eden
 Auckland
 0602
- 
- 
 office@VisionWest.org.nz
 (09) 818 0700 
 http://www.VisionWest.org.nz
 Our Main Office for our Campus is open Monday to Friday 9am - 5pm. 
 Opening times of different services within the Trust may vary
 Some charges may apply.
-No referral required.
- 
-Classifications:
-BFC"
-"WALSH Trust
-  
-    
-        
-        + Select
-    
-  
+No referral required. 
+Classifications: BFC
+
+
+WALSH Trust
 Last updated 04/05/2017
 FSD0003630
 West Auckland Living Skills Homes Trust Board. A variety of support services for people living in the community who experience Mental Ill Health.
 8 Hickory Avenue
 Henderson
 West Auckland
- 
- 
 reception@walsh.org.nz
 (09) 837 5240 
 http://www.walsh.org.nz
 8.30am - 4.30pm Monday to Friday.
 All services free of charge.
-Referral may apply.
- 
-Classifications:
-PACIFIC"
+Referral may apply. 
+Classifications: PACIFIC"
+
+
+
 "Whai Maia Ltd
-  
-    
-        
-        + Select
-    
-  
 Last updated 01/12/2016
 FSD0022876
 Provides tribal development through social housing, health, environmental, whanau ora and educational services.
 32-34 Mahuhu Crescent
 Auckland
 1010
- 
- 
 (09) 336 1670 
 http://www.ngatiwhatuaorakei.com/
 Mon to Fri 8.30am to 5.00pm.
 All services free of charge.
 No referral required."
 "Accessible Properties
-  
-    
-        
-        + Select
-    
-  
 Last updated 02/03/2017
-FSD0021007
+
+
+
+"Accessible Properties"
+FSD0021007 
 Providing good quality, affordable homes and property management services to people with disabilities or on low incomes, and the organisations that support them.
- 
 info@accessibleproperties.co.nz
-(04) 471 5342 
+(04) 471 5342
 http://www.accessibleproperties.co.nz
-8.30am-5pm
-Monday to Friday
+8.30am-5pm Monday to Friday
 All services free of charge.
-Referral may apply."
-"Building and Housing Information - National
-  
-    
-        
-        + Select
-    
-  
+Referral may apply.
+
+
+Building and Housing Information - National
 Last updated 11/10/2016
 FSD0006142
-We offer advice and information for landlords and tenants who rent their homes. We administer the Residential Tenancies Act 1986. We receive and hold bonds until the end of a tenancy, we provide dispute resolution services, and we administer the S...
+"We offer advice and information for landlords and tenants who rent their homes. We administer the Residential Tenancies Act 1986. We receive and hold bonds until the end of a tenancy, we provide dispute resolution services"
 Level 1
 205 Victoria Street
 Wellington
- 
 info@tenancy.govt.nz
 (04) 494 0260 
 (0800) 836 262 
 http://www.dbh.govt.nz/tenancy-index
 Open between 8:30am and 4:30pm weekdays
 Some charges may apply.
-No referral required."
-"Department of Internal Affairs
-  
-    
-        
-        + Select
-    
-  
-Last updated 10/07/2017
-FSD0006144
-New Zealand's Department of Internal Affairs issues passports; administers civil unions; registers births, deaths, marriages and name changes; administers citizenship applications; ensures gambling is fair, legal and honest; enforces censorship la...
-Department of Internal Affairs
-145-147 Lambton Quay
-Wellington
-6140
- 
-info@dia.govt.nz
-(04) 495 7200 
-(0800) 25 78 87 
-http://www.dia.govt.nz
-8am to 5pm Monday to Friday.
-If you know the name of the person you want to contact, you can email them at firstname.lastname@dia.govt.nz
-Visit www.dia.govt.nz for more information.
-Some charges may apply.
-No referral required."
-"Emerge Aotearoa - Central and Capital Coast
-  
-    
-        
-        + Select
-    
-  
+No referral required.
+
+
+Emerge Aotearoa - Central and Capital Coast
 Last updated 30/06/2017
 FSD0003148
 Emerge Aotearoa is a non government organisation that provides community-based mental health and disability support services nationwide. It was established in 2015 and is a merger of Richmond Services, Wellink Trust, Mind and Body and Recovery Sol...
 13a Wall Place
 Kenepuru
-Porirua
- 
+Porirua 
 info@emergeaotearoa.org.nz
 (04) 589 9442 
 http://www.emergeaotearoa.org.nz
 08.30am-05:00pm, Mon-Fri
 Some charges may apply.
 Referral may apply."
-"Emerge Aotearoa - Lower Hutt
-  
-    
-        
-        + Select
-    
-  
+
+
+Emerge Aotearoa - Lower Hutt
 Last updated 05/07/2017
 FSD0005561
 Offering Recovery of Wellbeing Support in residential and community settings to people with complex needs including mental health.
@@ -878,30 +612,20 @@ http://www.emergeaotearoa.org.nz
 Monday - Sunday 24 hour service
 Some charges may apply.
 Referral may apply."
-"Housing New Zealand
-  
-    
-        
-        + Select
-    
-  
+
+Housing New Zealand
 Last updated 21/07/2017
 FSD0006146
-Provides New Zealanders with access to good quality, affordable homes. It is also the government's main advisor on housing, and services related to housing.
- 
+Provides New Zealanders with access to good quality, affordable homes. It is also the government's main advisor on housing, and services related to housing. 
 enquiries1@hnzc.co.nz
 (0800) 801 601 
 (04) 439 3052x43052 
 http://www.hnzc.co.nz
 Some charges may apply.
 No referral required."
-"LinkPeople
-  
-    
-        
-        + Select
-    
-  
+
+
+LinkPeople
 Last updated 29/05/2017
 FSD0020982
 You may have known us as Keys Social Housing or Linkage. We’ve decided to team up and become LinkPeople.
@@ -910,7 +634,6 @@ Emergency housing service only
 24 Garden Place
 Hamilton
 3204
- 
 annabelle.jerram@linkpeople.co.nz
 (07) 857 1248 
 (027) 801 4011 
@@ -924,13 +647,9 @@ Fri 11am - 4pm
 Other times by appointment.
 All services free of charge.
 Referral may apply."
-"Ranui House Patient & Family Accommodation
-  
-    
-        
-        + Select
-    
-  
+
+
+Ranui House Patient & Family Accommodation
 Last updated 17/01/2017
 FSD0000153
 Ranui House was established in 1993 and is situated directly across the road from Christchurch Hospitals. We provide accommodation for patients from all hospital departments and their families from throughout New Zealand, who are facing coming to ...
@@ -938,8 +657,7 @@ Ranui House
 1 Cambridge Terrace
 Central City
 Christchurch
-8013
- 
+8013 
 info@bmct.org.nz
 (03) 377 2515 
 (027) 438 2599 
@@ -947,21 +665,16 @@ http://www.bmct.org.nz/
 Office Hours/Booking In - Monday to Friday, 830am to 5pm. Weekends by arrangement.
 Some charges may apply.
 No referral required."
+
+
 "Whangarei Accessible Housing Trust
-  
-    
-        
-        + Select
-    
-  
 Last updated 04/05/2017
 FSD0020997
 Our main purpose is to provide or assist disabled people with accessible affordable housing. We have 20 houses in Whangarei and eight houses in Auckland. When we are not able to offer one of the Trust’s homes, we work with prospective tenants to l...
 291 Kamo Road
 Whau Valley
 Whangarei
-0112
- 
+0112 
 info@accessiblehousing.org.nz
 (09) 955 1829 
 (027) 244 0595 

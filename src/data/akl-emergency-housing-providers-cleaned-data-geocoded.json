@@ -36,7 +36,7 @@
         "hours": "Monday - Friday 9:00am-5:00pm",
         "availability": "Mon-Fri 9am-5pm",
         "callToShelterPhone": "(09) 480 5959",
-        "address": "92 - 96 Onewa Road, Northcote, North Shore City 0627",
+        "address": "92 Onewa Road, Northcote, North Shore City 0627",
         "street": "92 Onewa Road",
         "city": "Auckland",
         "postcode": "0627",
@@ -44,7 +44,11 @@
         "phone": "(09) 480 5959",
         "email": "jan@depaulhouse.org.nz",
         "website": "http://www.depaulhouse.org.nz",
-        "type": "family?"
+        "type": "family?",
+        "_geoloc": {
+            "lat": -36.8106604,
+            "lng": 174.7379301
+        }
     },
     {
         "name": "Ranui Baptist Community Care",
@@ -358,11 +362,7 @@
         "phone": "(09) 636 8512, 0800SHAKTI (0800742584)",
         "fax": "",
         "email": "Saws1@shakti.org.nz",
-        "website": "http://www.Shakti.org.nz, http://www.womensrefuge.org.nz",
-        "_geoloc": {
-            "lat": -36.9117871,
-            "lng": 174.776076
-        }
+        "website": "http://www.Shakti.org.nz, http://www.womensrefuge.org.nz"
     },
     {
         "name": "Shakti Community Council Inc",
@@ -386,11 +386,7 @@
         "phone": "(09) 580 1542, 0800SHAKTI (0800742584)",
         "fax": "",
         "email": "shila@shakti.org.nz",
-        "website": "http://shakti-international.org/shakti-nz/, http://www.womensrefuge.org.nz",
-        "_geoloc": {
-            "lat": -36.9117871,
-            "lng": 174.776076
-        }
+        "website": "http://shakti-international.org/shakti-nz/, http://www.womensrefuge.org.nz"
     },
     {
         "name": "Shine",
@@ -414,11 +410,7 @@
         "phone": "0508 744 633, 0800SHAKTI (0800742584)",
         "fax": "09 815 4601",
         "email": "enquiries@2shine.org.nz",
-        "website": "http://www.2shine.org.nz/, http://www.womensrefuge.org.nz",
-        "_geoloc": {
-            "lat": -36.87107779999999,
-            "lng": 174.7473924
-        }
+        "website": "http://www.2shine.org.nz/, http://www.womensrefuge.org.nz"
     },
     {
         "name": "Wise Guys Men's Refuge & Community Housing Project",
@@ -435,7 +427,7 @@
         "availability": "24/7",
         "callToShelterPhone": "(0800) 494 734",
         "details": "24 hours, 7 days. Accommodation for up to 50 men and women.",
-        "address": "Kowhai Lodge,833 Kingseat Rd, Kingseat 2580",
+        "address": "833 Kingseat Rd, Kingseat, 2580",
         "street": "833 Kingseat Road",
         "suburb": "Kingseat",
         "city": "Auckland",
@@ -445,6 +437,29 @@
         "fax": "09 815 4601",
         "email": "wiseguys@slingshot.co.nz",
         "website": "http://08004wiseguys.org/"
+    },
+    {
+        "name": "Vision West",
+        "categories": [
+            "woman",
+            "free",
+            "children",
+            "no referral",
+            "some charges"
+        ],
+        "description": "VisionWest Community Housing provides emergency, short term and long term supported Housing in West Auckland & Christchurch for those in need who cannot access private rental houses. The aim is to provide safe, healthy, affordable, quality housing",
+        "hours": "Mon-Fri 9am-5pm",
+        "details": "",
+        "address": "Building 13, 97 Glendale Road, Glen Eden, Auckland, 0641",
+        "street": "97 Glendale Road",
+        "suburb": "Glen Eden",
+        "city": "Auckland",
+        "postcode": "0641",
+        "country": "New Zealand",
+        "phone": "(09) 818 0700",
+        "email": "housing@visionwest.org.nz",
+        "fax": "",
+        "website": "http://www.womensrefuge.org.nz"
     },
     {
         "footer": "People in immediate need of somewhere to stay should call Work and Income on 0800 559 009 or call into their nearest Ministry of Social Development service centre."

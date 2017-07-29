@@ -254,7 +254,7 @@
         "email": "Saws1@shakti.org.nz",
         "website": "http://www.Shakti.org.nz, http://www.womensrefuge.org.nz"
  },{
-    "name": "Shakti Community Council Inc ",
+    "name": "Shakti Community Council Inc",
         "categories": ["woman", "free", "children", "24 Hours"],
         "description": "To facilitate and ensure the good health and overall well-being of New Zealand’s migrant and refugee communities through culturally competent services within a culturally appropriate environment.",
         "hours": "9:00 am - 5:00pm, Monday - Friday",
@@ -285,9 +285,24 @@
         "fax": "09 815 4601",
         "email": "enquiries@2shine.org.nz",
         "website": "http://www.2shine.org.nz/, http://www.womensrefuge.org.nz"
+ },{
+     "name": "Wise Guys Men's Refuge & Community Housing Project",
+        "categories": ["men", "pick ups","woman", "free", "children", "24 Hours"],
+        "description": "The Wise Guys Men’s Refuge & Community Emergency Housing Project, offers Emergency Accommodation, Emergency Housing, Urgent Accommodation as well as Long Term Accommodation for up to 50 men and women.  Our service is based in Kingseat, South Auckland.  We are also a Men’s Retreat / Men’s Shelter that specialize in helping men with nowhere to go, homeless or need help to get their lives back on track.",
+        "hours": "24 Hours",
+        "details": "24 hours, 7 days. Accommodation for up to 50 men and women.",
+        "address": "Kowhai Lodge,833 Kingseat Rd, Kingseat 2580",
+        "street": "833 Kingseat Road",
+        "suburb": "Kingseat",
+        "city": "Auckland",
+        "postcode": "2580",
+        "country": "New Zealand",
+        "phone": " 24 Hours: 0800-494-734 (0800-4-wiseguys), ", 
+        "fax": "09 815 4601",
+        "email": "wiseguys@slingshot.co.nz",
+        "website": "http://08004wiseguys.org/"
  },
     {
         "footer": "People in immediate need of somewhere to stay should call Work and Income on 0800 559 009 or call into their nearest Ministry of Social Development service centre."
     }
 ]
-

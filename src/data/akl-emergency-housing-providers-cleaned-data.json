@@ -383,6 +383,23 @@
     "email": "wiseguys@slingshot.co.nz",
     "website": "http://08004wiseguys.org/"
   },
+    {
+        "name": "Vision West",
+        "categories": ["woman", "free", "children", "no referral", "some charges"],
+        "description": "VisionWest Community Housing provides emergency, short term and long term supported Housing in West Auckland & Christchurch for those in need who cannot access private rental houses. The aim is to provide safe, healthy, affordable, quality housing",
+        "hours": "Mon-Fri 9am-5pm",
+        "details": "",
+        "address": "Building 13, 97 Glendale Road, Glen Eden, Auckland, 0641",
+        "street": "97 Glendale Road",
+        "suburb": "Glen Eden",
+        "city": "Auckland",
+        "postcode": "0641",
+        "country": "New Zealand",
+        "phone": "(09) 818 0700",
+        "email":"housing@visionwest.org.nz",
+        "fax": "",
+        "website": "http://www.womensrefuge.org.nz"
+    },
   {
     "footer": "People in immediate need of somewhere to stay should call Work and Income on 0800 559 009 or call into their nearest Ministry of Social Development service centre."
   }

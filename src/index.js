@@ -2,7 +2,8 @@ const fs = require('fs')
 const geocoder = require('geocoder')
 const path = require('path')
 
-const providers = require('./data/service-providers.json')
+// const providers = require('./data/service-providers.json')
+const providers = require('./data/akl-emergency-housing-providers-cleaned-data.json')
 
 const promises = providers.map(provider => {
   return new Promise((resolve, reject) => {
@@ -33,7 +34,8 @@ Promise.all(promises)
     const json = JSON.stringify(data, null, 4)
     console.log('Writing geocoded results...')
     fs.writeFileSync(
-      path.resolve('src/data/service-providers-geocoded.json'),
+      // path.resolve('src/data/service-providers-geocoded.json'),
+      path.resolve('src/data/akl-emergency-housing-providers-cleaned-data-geocoded.json'),
       json
     )
   })
